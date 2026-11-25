@@ -1,0 +1,15 @@
+{"question": "Quelle est la durée maximale de la période d'essai d'un cadre en CDI ?", "fiches": ["F1643"], "must_contain": ["4 mois"]}
+{"question": "Combien de temps dure au maximum la période d'essai initiale d'un ouvrier embauché en CDI ?", "fiches": ["F1643"], "must_contain": ["2 mois"]}
+{"question": "Combien de jours de congés payés gagne un salarié par mois de travail ?", "fiches": ["F2258"], "must_contain": ["2,5 jours"]}
+{"question": "Après avoir signé une rupture conventionnelle, de combien de temps dispose-t-on pour changer d'avis ?", "fiches": ["F19030"], "must_contain": ["15 jours"]}
+{"question": "À quel taux sont majorées les 8 premières heures supplémentaires de la semaine, sans accord collectif ?", "fiches": ["F2391"], "must_contain": ["25 %"]}
+{"question": "Quel est le montant minimum de la prime de précarité à la fin d'un CDD ?", "fiches": ["F40", "F803"], "must_contain": ["10 %"]}
+{"question": "Quelle ancienneté faut-il pour toucher l'indemnité légale de licenciement ?", "fiches": ["F987"], "must_contain": ["8 mois"]}
+{"question": "Combien dure le congé de paternité et d'accueil de l'enfant pour un salarié du privé ?", "fiches": ["F3156"], "must_contain": ["25 jours"]}
+{"question": "Quel jour férié est obligatoirement chômé pour tous les salariés ?", "fiches": ["F2405"], "must_contain": ["1er mai"]}
+{"question": "Pendant combien de temps peut-on contester le reçu pour solde de tout compte après l'avoir signé ?", "fiches": ["F86"], "must_contain": ["6 mois"]}
+{"question": "Mon employeur peut-il mettre en place le télétravail sans accord collectif ?", "fiches": ["F13851"], "must_contain": ["charte"]}
+{"question": "Un salarié peut-il revenir sur sa démission ?", "fiches": ["F131"], "must_contain": ["rétractation"]}
+{"question": "Quelle est la durée du congé de maternité pour une première naissance ?", "fiches": ["F2265"], "must_contain": ["16 semaines"]}
+{"question": "Quel est le meilleur langage de programmation pour débuter ?", "fiches": [], "must_contain": []}
+{"question": "Comment déclarer ses revenus fonciers aux impôts ?", "fiches": [], "must_contain": []}

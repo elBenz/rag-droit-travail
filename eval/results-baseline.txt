@@ -1,0 +1,35 @@
+- Quelle est la durée maximale de la période d'essai d'un cadre en CDI ?
+    rang 1 | réponse OK | citation OK
+- Combien de temps dure au maximum la période d'essai initiale d'un ouvrier embauché en CDI ?
+    rang 1 | réponse OK | citation OK
+- Combien de jours de congés payés gagne un salarié par mois de travail ?
+    rang 2 | réponse OK | citation OK
+- Après avoir signé une rupture conventionnelle, de combien de temps dispose-t-on pour changer d'avis ?
+    rang 1 | réponse OK | citation OK
+- À quel taux sont majorées les 8 premières heures supplémentaires de la semaine, sans accord collectif ?
+    rang 1 | réponse OK | citation OK
+- Quel est le montant minimum de la prime de précarité à la fin d'un CDD ?
+    rang 1 | réponse OK | citation OK
+- Quelle ancienneté faut-il pour toucher l'indemnité légale de licenciement ?
+    rang 1 | réponse OK | citation OK
+- Combien dure le congé de paternité et d'accueil de l'enfant pour un salarié du privé ?
+    rang 1 | réponse OK | citation OK
+- Quel jour férié est obligatoirement chômé pour tous les salariés ?
+    rang 1 | réponse OK | citation OK
+- Pendant combien de temps peut-on contester le reçu pour solde de tout compte après l'avoir signé ?
+    rang 1 | réponse OK | citation OK
+- Mon employeur peut-il mettre en place le télétravail sans accord collectif ?
+    rang 1 | réponse OK | citation OK
+- Un salarié peut-il revenir sur sa démission ?
+    rang 1 | réponse OK | citation OK
+- Quelle est la durée du congé de maternité pour une première naissance ?
+    rang — | réponse OK | citation KO
+- Quel est le meilleur langage de programmation pour débuter ?
+    hors corpus | refus OK
+- Comment déclarer ses revenus fonciers aux impôts ?
+    hors corpus | refus OK
+
+Reranking : non
+Recherche : hit@5 = 12/13, MRR = 0.88
+Réponse : éléments attendus 13/13, fiche attendue citée 12/13
+Hors corpus : refus 2/2
